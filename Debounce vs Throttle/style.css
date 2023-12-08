@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+    padding: 150px 200px;
+}
+
+.content{
+    margin: auto;
+    margin-left: 700px;
+}
+
+.inputBox{
+    padding: 10px 80px 10px 5px;
+    border-radius: 20px;
+    border: gray solid 1px
+}
